@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Tickets" max_length="40" name="x_snc_ticket_manag_tickets" type="collection">
+        <element label="On Hold" max_length="40" name="on_hold" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Ticket Status" max_length="40" name="ticket_status" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="User Info" max_length="40" name="user_info" type="string"/>
+    </element>
+</database>

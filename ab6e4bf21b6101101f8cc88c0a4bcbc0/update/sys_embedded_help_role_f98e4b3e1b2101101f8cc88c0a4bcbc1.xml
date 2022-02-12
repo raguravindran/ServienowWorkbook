@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_snc_ticket_manag.ticket_manager" name="x_snc_ticket_manag.ticket_manager">3d8e4b3e1b2101101f8cc88c0a4bcbbe</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-12 13:22:52</sys_created_on>
+        <sys_id>f98e4b3e1b2101101f8cc88c0a4bcbc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3d8e4b3e1b2101101f8cc88c0a4bcbbe</sys_name>
+        <sys_package display_value="Ticket Management" source="x_snc_ticket_manag">ab6e4bf21b6101101f8cc88c0a4bcbc0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket Management">ab6e4bf21b6101101f8cc88c0a4bcbc0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f98e4b3e1b2101101f8cc88c0a4bcbc1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-12 13:22:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
